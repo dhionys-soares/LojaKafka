@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXYyqXgsB8I=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Estudos\\Kafka\\LojaKafka\\LojaKafka\\LojaKafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhiso\\.nuget\\packages\\confluent.kafka\\2.15.1\\confluent.kafka.2.15.1.nupkg.sha512",
+    "C:\\Users\\dhiso\\.nuget\\packages\\librdkafka.redist\\2.15.1\\librdkafka.redist.2.15.1.nupkg.sha512",
+    "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.12\\microsoft.extensions.caching.memory.10.0.12.nupkg.sha512",
+    "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Caching.Memory não será removido. Este pacote está disponível automaticamente e não precisa ser referenciado explicitamente. Remova o item PackageReference.",
+      "projectPath": "C:\\dev\\Estudos\\Kafka\\LojaKafka\\LojaKafka\\LojaKafka.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\dev\\Estudos\\Kafka\\LojaKafka\\LojaKafka\\LojaKafka.csproj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
